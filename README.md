@@ -1,36 +1,34 @@
-Today I learned about:
-Importance of OPPS
+# Importance of OPPS
 * Generality to Speciality
 * You can make your own data types
 
-Class
+# Class
 * Data or Property/attribute
 * Functions or Behavior
 * class Should be written in camelcase
 * function should be written in snake case
 
-Object:
+# Object:
 * Object is an instance of the class.
 * In python everything is object
 
 
-Function vs Methods
+# Function vs Methods
 * Methods are basically  special functions which are written inside the classes  and can be accessed by only the object of that class whereas Function is a normal function which is not inside any class and can be accessed by any objects
 
-Constructor : __init__()
+# Constructor : __init__()
 * It is a special method in which the code inside it, will automatically executed in the time of object creation of that class.
 * It is also called magic method or dunder method
 
-Common Example To Understand Constructor:
+# Common Example To Understand Constructor:
 * If God is a programmer then this Universe is Class, The Human Beings are Objects and the Death is Constructor.
 * We write the code which should automatically executed, when we open any website connect to the database and internet, access GPS, and configuration codes are written in the Constructor.
 * Actually, the Name it self define the main goal of Constructor mean build something, create something.
 
-Concept of self
+# Concept of self
 * The everything like data or mehtods in the can only accessed by only the object of that class.
 * Self is nothing but  current object of that class.
 * The one method of the class communicate to another method of that calls using self which is object of that class.
 * You can give anyname instead of self it just a convension.
-## Installation
-1. clone repo https://github.com/Mohitbasnet/mohsearch
-2. create virtual environment and activities
+# Installation
+1. clone repo https://github.com/Mohitbasnet/All-About-OPPS
