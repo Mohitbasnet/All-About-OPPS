@@ -30,5 +30,9 @@
 * Self is nothing but  current object of that class.
 * The one method of the class communicate to another method of that calls using self which is object of that class.
 * You can give anyname instead of self it just a convension.
+
+* When a object of class is made then self is automatically passed as a first arguement.
+
+
 # Installation
 1. clone repo https://github.com/Mohitbasnet/All-About-OPPS
