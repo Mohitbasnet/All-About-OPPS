@@ -47,7 +47,7 @@
 * By Default object of the class are mutable just like list, sets but we can also make it immutable.
 * Address of the object can be changed
 
-# Instance Variale
+# Instance Variable
 * The instance variable is type of variable which value is different for different object.
 # Installation
 1. clone repo https://github.com/Mohitbasnet/All-About-OPPS
