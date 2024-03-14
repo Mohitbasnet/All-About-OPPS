@@ -31,3 +31,27 @@ Concept of self
 * Self is nothing but  current object of that class.
 * The one method of the class communicate to another method of that calls using self which is object of that class.
 * You can give anyname instead of self it just a convension.
+
+Attributes
+* The variables inside the constructor.
+* When we make a object of a class then we can access the methods and attributes of that class through the object of that class.
+* Using the object, we can also make new attributes from out side of the class.
+
+Reference Variable
+* Reference variable holds the objects
+* It stores the address of the object in memery location. for example: p = Person(), here p is reference variable.
+* We can create object without reference variable as well, like p = Person(), we don't need p but we can make it like this: Person()=this is the object of person class, p=this is the reference variable which stores the address of that object.
+* An object can have multiple reference variables like, 
+p= Person()
+q = Person()
+p = q
+
+Pass by Reference
+* We can give the object as input to the function this is pass by reference, actually, we are not giving the object but the reference variable.
+* Function can also return a object
+
+Mutablity of object 
+* By Default object of the class are mutable just like list, sets but we can also make it immutable.
+
+Instance Variale
+* The instance variable is type of variable which value is different for different object. for example , self.name = name, here self.name is the instance variable.

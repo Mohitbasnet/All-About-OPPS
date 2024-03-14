@@ -33,6 +33,21 @@
 
 * When a object of class is made then self is automatically passed as a first arguement.
 
+# Attributes
+* The variables inside the constructor.
+* When we make a object of a class then we can access the methods and attributes of that class through the object of that class.
+* Using the object, we can also make new attributes from out side of the class.
 
+
+# Reference Variable
+* Reference variable holds the objects
+* It stores the address of the object in memery location. for example: p = Person(), here p is reference variable.
+
+# Mutablity of object
+* By Default object of the class are mutable just like list, sets but we can also make it immutable.
+* Address of the object can be changed
+
+# Instance Variale
+* The instance variable is type of variable which value is different for different object.
 # Installation
 1. clone repo https://github.com/Mohitbasnet/All-About-OPPS
