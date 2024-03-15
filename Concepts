@@ -55,3 +55,13 @@ Mutablity of object
 
 Instance Variale
 * The instance variable is type of variable which value is different for different object. for example , self.name = name, here self.name is the instance variable.
+
+
+Encapsulation
+* Make your data private means make private variables.
+* Nothing is private in python. You can access private variable using this, Obj._ClassName__variablename.
+* We can access the private data or varibale with the help of methods of that class.
+* We can access the private variable or data with the help of getter and setter methods.
+
+* List and dictionary of objects
+We can store different objects in a list

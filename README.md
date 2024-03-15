@@ -49,5 +49,9 @@
 
 # Instance Variale
 * The instance variable is type of variable which value is different for different object.
+
+# Encapsulation
+* We can access the private variable or data with the help of getter and setter methods.
+
 # Installation
 1. clone repo https://github.com/Mohitbasnet/All-About-OPPS
