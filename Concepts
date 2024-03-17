@@ -53,7 +53,7 @@ Pass by Reference
 Mutablity of object 
 * By Default object of the class are mutable just like list, sets but we can also make it immutable.
 
-Instance Variale
+Instance Variable
 * The instance variable is type of variable which value is different for different object. for example , self.name = name, here self.name is the instance variable.
 
 
@@ -65,3 +65,8 @@ Encapsulation
 
 * List and dictionary of objects
 We can store different objects in a list
+
+* Static Variable
+Static variable is class variable which is same for all object.
+it is declare  like this Classname.Variablename eg, Atm.cid
+
