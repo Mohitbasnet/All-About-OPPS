@@ -70,3 +70,8 @@ We can store different objects in a list
 Static variable is class variable which is same for all object.
 it is declare  like this Classname.Variablename eg, Atm.cid
 
+
+* Class Relationships
+Class has relationship of two types:
+. Aggregation: One Class owns the other class. You cannot access private variable in aggregation.You have to use getter to access private variables.
+. Inheritance: The child class can access the data and methods of parent class. this if for code reusablity. Example-Udemy
