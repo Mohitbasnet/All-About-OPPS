@@ -80,6 +80,9 @@ Class has relationship of two types:
 . Constructor 
 . Non Private Attributes
 . Non Private Methods
+
 If child class have not its constructor then first it executes the constructor of parent class.
 
 If child class have its own constructor then it does not call the constructor of parent class.
+
+Child can't access private members and methods of the parent class
