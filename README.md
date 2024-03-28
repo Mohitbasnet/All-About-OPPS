@@ -53,5 +53,15 @@
 # Encapsulation
 * We can access the private variable or data with the help of getter and setter methods.
 
+# Static Variable
+* Static variable is class variable which is same for all object.
+it is declare  like this Classname.Variablename eg, Atm.cid
+
+
+# Inheritance
+* The child class can access the data and methods of parent class. this if for code reusablity. Example-Udemy
+
+# Super keyword
+* By using thid keyword you can use the methods and variables of the parent class when you need, it overlaps the concept of method and constructor overriding.
 # Installation
 1. clone repo https://github.com/Mohitbasnet/All-About-OPPS

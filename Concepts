@@ -88,3 +88,6 @@ If child class have its own constructor then it does not call the constructor of
 Child can't access private members and methods of the parent class.
 
 if parent and class have the method with same name then only child method will execute , it is call method overriding
+
+* Super Keywork
+By using super keyword you can use the methods and variables of the parent class.
