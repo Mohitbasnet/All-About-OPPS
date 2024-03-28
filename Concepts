@@ -75,3 +75,11 @@ it is declare  like this Classname.Variablename eg, Atm.cid
 Class has relationship of two types:
 . Aggregation: One Class owns the other class. You cannot access private variable in aggregation.You have to use getter to access private variables.
 . Inheritance: The child class can access the data and methods of parent class. this if for code reusablity. Example-Udemy
+
+* What gets inherited?
+. Constructor 
+. Non Private Attributes
+. Non Private Methods
+If child class have not its constructor then first it executes the constructor of parent class.
+
+If child class have its own constructor then it does not call the constructor of parent class.

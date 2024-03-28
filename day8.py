@@ -57,8 +57,8 @@ class User:
 # child
 class Student(User):
 
-#   def __init__(self):
-#     self.rollno = 100
+  def __init__(self):
+    self.rollno = 100
 
   def enroll(self):
     print('enroll into the course')
@@ -68,7 +68,7 @@ user = User()
 
 student = Student()
 
-# print(student.rollno)
+print(student.rollno)
 print(student.name)
 print(student.login())
 student.enroll()
