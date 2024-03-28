@@ -85,4 +85,6 @@ If child class have not its constructor then first it executes the constructor o
 
 If child class have its own constructor then it does not call the constructor of parent class.
 
-Child can't access private members and methods of the parent class
+Child can't access private members and methods of the parent class.
+
+if parent and class have the method with same name then only child method will execute , it is call method overriding
