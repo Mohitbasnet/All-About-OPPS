@@ -119,6 +119,7 @@ Hybrid Inheritance
 
 * Single Inheritance
 In this inheritance, there is a parent and a child and the child inherit from the parent.
+
 * Multilevel Inhertance
 In this inheritance, there will be a grandparent, parent and child class and the child class can inherit from parent and grandparent class.
 
@@ -130,3 +131,22 @@ In this inheritance, there will be one child and multiple parents, Java does not
 
 * Hybrid Inheritance
 This is the combination of multiple type of inheritance.
+
+
+* Polymorphism
+The word "polymorphism" means "many forms", and in programming it refers to methods/functions/operators with the same name that can be executed on many objects or classes.
+
+* Method Overinding:
+If child and parent class has same methods then the object only call the method of child class. that is method overinding.
+
+* Method Overloading:
+Method overloading is a scenario where in a single class have 2 methods having same name but different behavior and output depending on the input.
+This concept comes bcoz the code will be more clean in reading.
+But we cannot implement this in python.
+
+* Operator Overloading
+Same operator showing different behavior or output depending on the input,
+For example: hello' + 'world'=helloworld, 4 + 5 = 9, [1,2,3] + [4,5] = [1, 2, 3, 4, 5]
+
+
+
