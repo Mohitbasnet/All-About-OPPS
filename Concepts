@@ -148,5 +148,5 @@ But we cannot implement this in python.
 Same operator showing different behavior or output depending on the input,
 For example: hello' + 'world'=helloworld, 4 + 5 = 9, [1,2,3] + [4,5] = [1, 2, 3, 4, 5]
 
-
-
+* Abstraction
+Abstraction is a fundamental concept in Python programming that allows us to simplify complex concepts and focus on the essential details. It involves hiding unnecessary details and exposing only the relevant information to the users.
