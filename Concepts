@@ -109,3 +109,24 @@ Private properties of parent are not accessible directly in child class
 Child class can override the attributes or methods. This is called method overriding
 
 super() is an inbuilt function which is used to invoke the parent class methods and constructor
+
+* Types of Inheritance
+Single Inheritance
+Multilevel Inheritance
+Hierarchical Inheritance
+Multiple Inheritance(Diamond Problem)
+Hybrid Inheritance
+
+* Single Inheritance
+In this inheritance, there is a parent and a child and the child inherit from the parent.
+* Multilevel Inhertance
+In this inheritance, there will be a grandparent, parent and child class and the child class can inherit from parent and grandparent class.
+
+* Hierarchical Inheritance
+In this inheritance, there is one parent and multiple childrend and multiple child can inherit from one parent.
+
+* Multiple Inheritance
+In this inheritance, there will be one child and multiple parents, Java does not allow multiple inheritance but python does.
+
+* Hybrid Inheritance
+This is the combination of multiple type of inheritance.
