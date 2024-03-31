@@ -63,5 +63,11 @@ it is declare  like this Classname.Variablename eg, Atm.cid
 
 # Super keyword
 * By using thid keyword you can use the methods and variables of the parent class when you need, it overlaps the concept of method and constructor overriding.
+
+# PolyMorphism
+* The word "polymorphism" means "many forms", and in programming it refers to methods/functions/operators with the same name that can be executed on many objects or classes.
+
+# Abstraction
+* Abstraction is a fundamental concept in Python programming that allows us to simplify complex concepts and focus on the essential details. It involves hiding unnecessary details and exposing only the relevant information to the users.
 # Installation
 1. clone repo https://github.com/Mohitbasnet/All-About-OPPS
