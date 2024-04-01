@@ -1,4 +1,4 @@
-Today I learned about:
+Concepts of object oriented programming.
 Importance of OPPS
 * Generality to Speciality
 * You can make your own data types
@@ -23,14 +23,14 @@ Constructor : __init__()
 
 Common Example To Understand Constructor:
 * If God is a programmer then this Universe is Class, The Human Beings are Objects and the Death is Constructor.
-* We write the code which should automatically executed, when we open any website connect to the database and internet, access GPS, and configuration codes are written in the Constructor.
+* We write the code which should automatically executed, when we open any website connect to the database and internet, * * Accessing  GPS, and configuration codes are written in the Constructor.
 * Actually, the Name it self define the main goal of Constructor mean build something, create something.
 
 Concept of self
-* The everything like data or mehtods in the can only accessed by only the object of that class.
+* The everything like data or methods in the class can only accessed by only the object of that class.
 * Self is nothing but  current object of that class.
-* The one method of the class communicate to another method of that calls using self which is object of that class.
-* You can give anyname instead of self it just a convension.
+* The one method of the class can communicate to another method of that calls using self which is object of that class.
+* You can give anyname instead of self it just a convention.
 
 Attributes
 * The variables inside the constructor.
@@ -89,7 +89,7 @@ Child can't access private members and methods of the parent class.
 
 if parent and class have the method with same name then only child method will execute , it is call method overriding
 
-* Super Keywork
+* Super Keyword
 By using super keyword you can use the methods and variables of the parent class.
 Super cannnot access the variables
 super cannot be used outside the class
